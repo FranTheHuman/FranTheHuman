@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranTheHuman, Scala Developer since 2019.
 - 👀 I’m interested in Functional programming.
-- 🌱 I’m currently learning Functional programming with Scala - Akka - Cats
+- 🌱 I’m currently learning Functional programming with Scala - Akka - TypeLevel ecosystem
 - 📫 How to reach me https://www.linkedin.com/in/francisco-perrotta-580868161/
 
 <!---
