@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @FranTheHuman, Scala Developer since 2019.
+- 👋 Hi, I’m @FranTheHuman, Scala Developer since 2019 (And NodeJs | Java).
 - 👀 I’m interested in Functional and Concurrent programming.
-- 🌱 I’m currently learning and working with:
+- 🌱 I’m currently working with:
 
    .Scala
    .Akka
-   .TypeLevel ecosystem
    .Concurrency
-   .Functional Programming
+   .Quarkus
    
 - 📫 How to reach me https://www.linkedin.com/in/francisco-perrotta-580868161/
 
